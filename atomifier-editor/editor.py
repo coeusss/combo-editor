@@ -87,7 +87,7 @@ def main():
     1. strip non UTF-8 characters <currentSeparator>
     2. replace the domain if it is not entered as a whitelist <@gmail.com @yahoo.com>
     3. use a new separator <oldSeparator> <NewSeparator>
-    4. format the combos differently <separator> <userPass->emailPass emailPass->userPass>
+    4. format the combos differently <separator> <userPass->emailPass emailPass->userPass> 
 
     """ + Colors.RESET)
 
